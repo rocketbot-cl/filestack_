@@ -28,7 +28,7 @@ import os
 import sys
 
 base_path = tmp_global_obj["basepath"]
-cur_path = os.path.join(base_path,'modules','filestack')
+cur_path = os.path.join(base_path,'modules','filestack_')
 sys.path.append(os.path.join(cur_path , 'libs'))
 from filestack import Client
 from filestack import Filelink
