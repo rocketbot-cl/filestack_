@@ -6,6 +6,11 @@ Module to upload images, edit and download them
 
 ![alt text](https://raw.githubusercontent.com/rocketbot-cl/filestack_/master/example/filestack.png)
 
+<strong>Video Example:</strong>
+
+[![Filestack](https://img.youtube.com/vi/T4spSNLg2qw/0.jpg)](https://www.youtube.com/watch?v=T4spSNLg2qw "Filestack")
+
+
 <h2>Link to Documentation</h2>
 
 <ul>
