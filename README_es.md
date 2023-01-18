@@ -1,27 +1,27 @@
 # Filestack
   
-Module to work with Filestrack  
+Módulo para trabajar con Filestrack  
 
-## How to install this module
+## Como instalar este módulo
   
-__Download__ and __install__ the content in 'modules' folder in Rocketbot path  
+__Descarga__ e __instala__ el contenido en la carpeta 'modules' en la ruta de Rocketbot.  
 
 
 
 ## Overview
 
 
-1. Upload Image  
-Upload an image
+1. Subir Imagen  
+Subir una imagen
 
-2. Resize Image  
-Resize an image
+2. Redimensionar Imagen  
+Redimensionar una imagen
 
-3. Crop Image  
-Crop an Image
+3. Cortar Imagen  
+Cortar una Imagen
 
-4. Download Image  
-Download an image  
+4. Bajar Imagen  
+Bajar una imagen  
 
 
 
